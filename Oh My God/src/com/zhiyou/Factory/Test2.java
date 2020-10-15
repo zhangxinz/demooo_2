@@ -19,7 +19,7 @@ import com.zhiyou.Fruits.Fruits;
 public class Test2 {
 
 	public static void main(String[] args) {
-		System.out.println(method("banana"));
+		System.out.println(method("ban   ana"));
 	}
 	public static Fruits method(String s){
 		//½âÎöxmlÎÄ¼ş
