@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<bean id="apple" class="com.zhiyou.model.Apple"/>
+	<bean id="banana" class="com.zhiyou.model.Banana"/>
+	<bean id="grape" class="com.zhiyou.model.Grape"/>
+	<bean id="peach" class="com.zhiyou.model.Peach"/>
+	<bean id="pear" class="com.zhiyou.model.Pear"/>
+</beans>

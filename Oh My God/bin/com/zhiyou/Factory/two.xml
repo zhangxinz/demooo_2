@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans>
+	<bean id="apple" class="com.zhiyou.model.Apple">
+		<property name="name">悟道苹果</property>
+		<property name="age">18</property>
+	</bean>
+	<bean id="banana" class="com.zhiyou.model.Banana">
+		<property name="name">升仙香蕉</property>
+		<property name="age">28</property>
+	</bean>
+	<bean id="grape" class="com.zhiyou.model.Grape">
+		<property name="name">得道葡萄</property>
+		<property name="age">25</property>
+	</bean>
+	<bean id="peach" class="com.zhiyou.model.Peach">
+		<property name="name">蟠桃</property>
+		<property name="age">38</property>
+	</bean>
+	<bean id="pear" class="com.zhiyou.model.Pear">
+		<property name="name">帝王梨</property>
+		<property name="age">30</property>
+	</bean>
+</beans>
+
